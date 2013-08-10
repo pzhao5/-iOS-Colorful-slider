@@ -2,4 +2,4 @@
 ====================
 
 Allow to change background color for the slider
-[Screenshot](/screenshot.png)
+[Screenshot](/ColorfulSlider/screenshot.png)
